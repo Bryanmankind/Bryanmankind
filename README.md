@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Bryanmankind/Bryanmankind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Blockchain Developer.
 
-Here are some ideas to get you started:
+- 🔭 I specilize in developing blockchain Api, testing and deployment.
+- 🌱 I build Smart Contract architecture for web3 projets.
+- 👯 I’m looking to collaborate with web3 entreprenure ready to build blokchain project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+Solidity 
+Hardhat
+Ethereum 
+Ethere.js
+Web3.js
+Foundry
+
+MongoDB
+Express
+React
+Node.js
+
+JavaScript
+HTML
+CSS
+Python
