@@ -21,7 +21,7 @@ I'm a Backend Blockchain Developer passionate about building decentralized appli
 ![Node.js](https://img.shields.io/badge/-Node.js-363636?style=flat-square&logo=node.js&logoColor=white)
 
 #### Frontend:
-![JavaScript](https://img.shields.io/badge/-JavaScript-363636?style=flat-square&logo=javascript&logoColor=white)
+![alt text](image.png)
 ![HTML](https://img.shields.io/badge/-HTML-363636?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-363636?style=flat-square&logo=css3&logoColor=white)
 
