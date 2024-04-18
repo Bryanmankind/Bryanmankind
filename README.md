@@ -5,7 +5,7 @@
 I'm a Backend Blockchain Developer passionate about building decentralized applications and contributing to the blockchain ecosystem.
 
 - 🔭 I specialize in developing blockchain APIs, conducting testing, and overseeing deployment processes.
-- 🌱 I constructing Smart Contract architectures for Web3 projects, ensuring robust and secure decentralized applications.
+- 🌱 I construct Smart Contract architectures for Web3 projects, ensuring robust and secure decentralized applications.
 - 👯 I’m eager to collaborate with fellow Web3 entrepreneurs.
 
 ### Tech Stack
