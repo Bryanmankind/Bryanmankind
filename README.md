@@ -5,8 +5,8 @@
 I'm a Backend Blockchain Developer passionate about building decentralized applications and contributing to the blockchain ecosystem.
 
 - 🔭 I specialize in developing blockchain APIs, conducting testing, and overseeing deployment processes.
-- 🌱 I excel in constructing Smart Contract architectures for Web3 projects, ensuring robust and secure decentralized applications.
-- 👯 I’m eager to collaborate with fellow Web3 entrepreneurs who are ready to embark on blockchain projects that push the boundaries of innovation.
+- 🌱 I constructing Smart Contract architectures for Web3 projects, ensuring robust and secure decentralized applications.
+- 👯 I’m eager to collaborate with fellow Web3 entrepreneurs.
 
 ### Tech Stack
 #### Blockchain:
@@ -30,5 +30,4 @@ I'm a Backend Blockchain Developer passionate about building decentralized appli
 ![HTML](https://img.shields.io/badge/-HTML-363636?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-363636?style=flat-square&logo=css3&logoColor=white)
 
-
-Let's connect and explore the possibilities of blockchain together! 🚀✨
+Reach me via email bryanconquer22@gmail.com
